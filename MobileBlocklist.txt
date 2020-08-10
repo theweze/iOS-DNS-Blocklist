@@ -44,4 +44,9 @@
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 scontent-iad3-1.cdninstagram.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 sdk.iad-06.braze.com
+0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 tr.iadsdk.apple.com
+apple-dns.net$
 
