@@ -49,4 +49,17 @@
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 xp.apple.com
+0.0.0.0 epdg.epc.att.net
+0.0.0.0 api-glb-use1c.smoot.apple.com
+0.0.0.0 iphone-id.apple.com
+0.0.0.0 gsp-ssl.ls.apple.com
+0.0.0.0 news-edge.apple.com
+0.0.0.0 news-events.apple.com
+0.0.0.0 gsp64-ssl.ls.apple.com
+0.0.0.0 gsas.apple.com
+0.0.0.0 news.iadsdk.apple.com
+0.0.0.0 apple.comscoreresearch.com
+0.0.0.0 bag.itunes.apple.com
+0.0.0.0 itunes.apple.com.edgekey.net
 
