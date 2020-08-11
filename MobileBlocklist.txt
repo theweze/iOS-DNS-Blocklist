@@ -48,3 +48,5 @@
 0.0.0.0 sdk.iad-06.braze.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 app-analytics.snapchat.com
+
