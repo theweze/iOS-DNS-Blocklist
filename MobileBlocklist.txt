@@ -14,7 +14,7 @@ googletagservices
 0.0.0.0 graph.facebook.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 weather-analytics-events.apple.com
-smoot.apple.com
+smoot.apple.com$
 0.0.0.0 e.reddit.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 heads-fa.scdn.co
