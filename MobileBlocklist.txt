@@ -36,7 +36,6 @@ iadsdk.apple.com
 0.0.0.0 gsp64-ssl.ls.apple.com
 0.0.0.0 gsas.apple.com
 scoreresearch
-0.0.0.0 itunes.apple.com.edgekey.net
 0.0.0.0 init.supersonicads.com
 0.0.0.0 api.a.ue1az.gotinder.com
 app-measurement.com
