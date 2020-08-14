@@ -44,7 +44,8 @@ app-measurement.com
 applovin
 adcolony
 0.0.0.0 platform.twitter.com
-
-
+0.0.0.0 gsp85-ssl.ls.apple.com
+0.0.0.0 configuration.ls.apple.com
+snapads
 
 
