@@ -61,8 +61,7 @@ siteintercept.qualtrics.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 xlog-va.tiktokv.com
-0.0.0.0 cl4.apple.com
-0.0.0.0 cl5.apple.com
+cl.apple.com
 byteoversea
 0.0.0.0 s0.ipstatp.com
 0.0.0.0 whoami.akamai.net
