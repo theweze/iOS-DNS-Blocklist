@@ -54,4 +54,7 @@ snapads
 0.0.0.0 gspe35-ssl.ls.apple.com
 0.0.0.0 gsp10-ssl.apple.com
 siteintercept.qualtrics.com
+0.0.0.0 pancake.apple.com
+0.0.0.0 gs-loc.apple.com
+0.0.0.0 seed.siri.apple.com
 
