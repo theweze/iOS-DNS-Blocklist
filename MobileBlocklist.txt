@@ -61,10 +61,15 @@ siteintercept.qualtrics.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 xlog-va.tiktokv.com
-cl.apple.com
+0.0.0.0 cl5.apple.com
+0.0.0.0 cl6.apple.com
+0.0.0.0 cl4.apple.com
 byteoversea
 0.0.0.0 s0.ipstatp.com
 0.0.0.0 whoami.akamai.net
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 roaming.officeapps.live.com
 0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 tags.tiqcdn.com
+
