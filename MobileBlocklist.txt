@@ -71,4 +71,10 @@ byteoversea
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 api.leanplum.com
+qq.com
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 idiagnostics.apple.com
+
+
 
