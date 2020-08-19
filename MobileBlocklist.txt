@@ -36,7 +36,7 @@ iadsdk.apple.com
 0.0.0.0 gsp64-ssl.ls.apple.com
 0.0.0.0 gsas.apple.com
 scoreresearch
-0.0.0.0 init.supersonicads.com
+supersonicads
 0.0.0.0 api.a.ue1az.gotinder.com
 app-measurement.com
 0.0.0.0 inet.ess.apple.com
@@ -75,6 +75,14 @@ byteoversea
 qq.com
 0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 idiagnostics.apple.com
+amazon-adsystem
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 com.tenjin.ios.api
+saypromo.net
+criteo
+0.0.0.0 wv.inneractive.mobi
+0.0.0.0 bds.snssdk.com
+ssacdn
 
 
 
