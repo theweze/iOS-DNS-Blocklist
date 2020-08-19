@@ -80,9 +80,10 @@ amazon-adsystem
 0.0.0.0 com.tenjin.ios.api
 saypromo.net
 criteo
-0.0.0.0 wv.inneractive.mobi
+0.0.0.0 wv.inner-active.mobi
 0.0.0.0 bds.snssdk.com
 ssacdn
-
+0.0.0.0 cognac-prod.appspot.com
+0.0.0.0 cl3.apple.com
 
 
