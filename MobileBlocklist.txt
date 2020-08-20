@@ -1,4 +1,4 @@
-vungle.com
+vungle.com$
 unity3d
 moatads
 mopub
@@ -41,7 +41,7 @@ supersonicads
 app-measurement.com
 0.0.0.0 inet.ess.apple.com
 0.0.0.0 alive.github.com
-applovin
+applovin.com$
 adcolony
 0.0.0.0 platform.twitter.com
 0.0.0.0 gsp85-ssl.ls.apple.com
@@ -95,3 +95,6 @@ candycrush
 king.com$
 footprint.net$
 0.0.0.0 https://app-measurement.com/sdk-exp
+inner-active.mobi$
+applvn.com$
+0.0.0.0 star.c10r.facebook.com
