@@ -4,7 +4,7 @@ moatads
 mopub
 0.0.0.0 googleads.g.doubleclick.net
 crashlytics
-branch.io
+branch.io$
 0.0.0.0 firebaselogging-pa.googleapis.com
 krxd
 appsflyer
@@ -94,3 +94,4 @@ midasplayer
 candycrush
 king.com$
 footprint.net$
+0.0.0.0 https://app-measurement.com/sdk-exp
