@@ -98,3 +98,5 @@ footprint.net$
 inner-active.mobi$
 applvn.com$
 0.0.0.0 star.c10r.facebook.com
+0.0.0.0 gspe79-ssl.ls.apple.com
+0.0.0.0 audio-ak-spotify-com.akamaized.net
