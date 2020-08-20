@@ -85,5 +85,12 @@ criteo
 ssacdn
 0.0.0.0 cognac-prod.appspot.com
 0.0.0.0 cl3.apple.com
-
-
+0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
+0.0.0.0 api-glb-ash.smoot.apple.com
+tapjoy
+gameanalytics
+0.0.0.0 vs-api.voodoo-tech.io
+midasplayer
+candycrush
+king.com$
+footprint.net$
