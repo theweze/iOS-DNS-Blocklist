@@ -100,3 +100,5 @@ applvn.com$
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 gspe79-ssl.ls.apple.com
 0.0.0.0 audio-ak-spotify-com.akamaized.net
+0.0.0.0 poole-collector-prod.n3twork.com
+0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
