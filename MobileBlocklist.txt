@@ -45,7 +45,7 @@ applovin.com$
 adcolony
 0.0.0.0 platform.twitter.com
 0.0.0.0 gsp85-ssl.ls.apple.com
-0.0.0.0 configuration.ls.apple.com
+0.0.0.0 gs-loc.apple.com
 snapads
 0.0.0.0 ocsp.apple.com
 0.0.0.0 stats.gc.apple.com
