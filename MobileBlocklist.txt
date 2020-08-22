@@ -29,7 +29,7 @@ braze.com
 iadsdk.apple.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 xp.apple.com
-0.0.0.0 iphone-id.apple.com
+0.0.0.0 iphone-ld.apple.com
 0.0.0.0 gsp-ssl.ls.apple.com
 0.0.0.0 news-edge.apple.com
 0.0.0.0 news-events.apple.com
@@ -71,8 +71,8 @@ byteoversea
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 api.leanplum.com
-qq.com
-0.0.0.0 adashbc.ut.taobao.com
+qq.com$
+taobao.com$
 0.0.0.0 idiagnostics.apple.com
 amazon-adsystem
 0.0.0.0 fls-na.amazon.com
@@ -82,7 +82,7 @@ criteo
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 bds.snssdk.com
 ssacdn
-0.0.0.0 cognac-prod.appspot.com
+appspot.com$
 0.0.0.0 cl3.apple.com
 0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
 0.0.0.0 api-glb-ash.smoot.apple.com
@@ -101,3 +101,8 @@ applvn.com$
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 poole-collector-prod.n3twork.com
 0.0.0.0 gsp-ssl.ls-apple.com.akadns.net
+0.0.0.0 sb-ssl.google.com
+deltadna.net$
+0.0.0.0 www.tapresearch.com
+safedk.com$
+crrepa.com$
