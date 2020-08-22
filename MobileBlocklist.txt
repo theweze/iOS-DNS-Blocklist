@@ -55,7 +55,6 @@ snapads
 0.0.0.0 gsp10-ssl.apple.com
 siteintercept.qualtrics.com
 0.0.0.0 pancake.apple.com
-0.0.0.0 gs-loc.apple.com
 0.0.0.0 config.edge.skype.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
