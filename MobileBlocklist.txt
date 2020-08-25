@@ -106,3 +106,5 @@ deltadna.net$
 0.0.0.0 www.tapresearch.com
 safedk.com$
 crrepa.com$
+0.0.0.0 api-glb.smoot.apple.com
+0.0.0.0 xp.itunes-apple.com.akadns.net
