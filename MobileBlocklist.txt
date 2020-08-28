@@ -1,5 +1,4 @@
 vungle.com$
-unity3d
 moatads
 mopub
 0.0.0.0 googleads.g.doubleclick.net
@@ -26,7 +25,7 @@ segment
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 in.appcenter.ms
 braze.com
-iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 xp.apple.com
 0.0.0.0 iphone-ld.apple.com
@@ -38,11 +37,11 @@ iadsdk.apple.com
 scoreresearch
 supersonicads.com$
 0.0.0.0 api.a.ue1az.gotinder.com
-app-measurement.com
+app-measurement.com$
 0.0.0.0 inet.ess.apple.com
 0.0.0.0 alive.github.com
 applovin.com$
-adcolony
+adcolony.com$
 0.0.0.0 platform.twitter.com
 0.0.0.0 gsp85-ssl.ls.apple.com
 0.0.0.0 gs-loc.apple.com
@@ -77,9 +76,9 @@ taobao.com$
 amazon-adsystem.com$
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 com.tenjin.ios.api
-saypromo.net
+saypromo.net$
 criteo.com$
-0.0.0.0 wv.inner-active.mobi
+inner-active.mobi$
 0.0.0.0 bds.snssdk.com
 ssacdn
 appspot.com$
@@ -93,9 +92,8 @@ midasplayer
 candycrush
 king.com$
 footprint.net$
-0.0.0.0 https://app-measurement.com/sdk-exp
+https://app-measurement.com/sdk-exp
 inner-active.mobi$
-applvn.com$
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 gspe79-ssl.ls.apple.com
 0.0.0.0 audio-ak-spotify-com.akamaized.net
@@ -115,3 +113,10 @@ crrepa.com$
 0.0.0.0 www.googletagmanager.com
 saygames.io$
 0.0.0.0 cdn-adn-https.rayjump.com
+0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 sh.wagbridge.aliyun-inc.com.gds.alibabadns.com
+0.0.0.0 new-fp-shed.wg1.b.yahoo.com
+0.0.0.0 saypromo.sfo2.cdn.digitaloceanspaces.com
+0.0.0.0 e4478.a.akamaiedge.net
+0.0.0.0 www.ketchapp.org
+unity3d.com$
