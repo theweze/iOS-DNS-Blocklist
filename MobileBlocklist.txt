@@ -1,7 +1,7 @@
 vungle.com$
 moatads
 mopub
-0.0.0.0 googleads.g.doubleclick.net
+doubleclick.net$
 crashlytics
 branch.io$
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -115,8 +115,14 @@ saygames.io$
 0.0.0.0 cdn-adn-https.rayjump.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 sh.wagbridge.aliyun-inc.com.gds.alibabadns.com
-0.0.0.0 new-fp-shed.wg1.b.yahoo.com
+0.0.0.0 b.yahoo.com
 0.0.0.0 saypromo.sfo2.cdn.digitaloceanspaces.com
 0.0.0.0 e4478.a.akamaiedge.net
 0.0.0.0 www.ketchapp.org
 unity3d.com$
+0.0.0.0 humb.apple.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 sapphire-api.target.com
+0.0.0.0 devices.carnivalmobile.com
+bugsnag.com$
+0.0.0.0 api-usent.kampyle.com
