@@ -18,7 +18,7 @@ smoot.apple.com$
 0.0.0.0 metrics.icloud.com
 0.0.0.0 heads-fa.scdn.co
 0.0.0.0 cs9.wac.phicdn.net
-segment
+segment.com$
 0.0.0.0 secure.gravatar.com
 0.0.0.0 app.adjust.com
 0.0.0.0 gstaticadssl.l.google.com
@@ -126,3 +126,13 @@ unity3d.com$
 0.0.0.0 devices.carnivalmobile.com
 bugsnag.com$
 0.0.0.0 api-usent.kampyle.com
+0.0.0.0 s.w-x.co
+0.0.0.0 events.mapbox.com
+0.0.0.0 api.apptentive.com
+ioam.de$
+0.0.0.0 analytics.twitter.com
+0.0.0.0 svcs.ebay.com
+0.0.0.0 adf0901f1861.cdn4.forter.com
+0.0.0.0 mads.amazon.com
+0.0.0.0 unagi-na.amazon.com
+0.0.0.0 firebaseinappmessaging.googleapis.com
