@@ -3,14 +3,12 @@ moatads
 mopub
 doubleclick.net$
 crashlytics
-branch.io$
 0.0.0.0 firebaselogging-pa.googleapis.com
 krxd
 appsflyer
 googletagservices
 0.0.0.0 googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 weather-analytics-events.apple.com
 smoot.apple.com$
@@ -20,7 +18,6 @@ smoot.apple.com$
 0.0.0.0 cs9.wac.phicdn.net
 segment.com$
 0.0.0.0 secure.gravatar.com
-0.0.0.0 app.adjust.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 in.appcenter.ms
@@ -37,7 +34,6 @@ braze.com
 scoreresearch
 supersonicads.com$
 0.0.0.0 api.a.ue1az.gotinder.com
-app-measurement.com$
 0.0.0.0 inet.ess.apple.com
 0.0.0.0 alive.github.com
 applovin.com$
