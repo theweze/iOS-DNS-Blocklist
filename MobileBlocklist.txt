@@ -1,4 +1,4 @@
-vungle.com$
+﻿vungle.com$
 moatads
 mopub
 doubleclick.net$
@@ -132,3 +132,6 @@ ioam.de$
 0.0.0.0 mads.amazon.com
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 firebaseinappmessaging.googleapis.com
+sentry.io$
+0.0.0.0 cl2.apple.com
+
