@@ -1,4 +1,4 @@
-﻿vungle.com$
+vungle.com$
 moatads
 mopub
 doubleclick.net$
@@ -134,4 +134,15 @@ ioam.de$
 0.0.0.0 firebaseinappmessaging.googleapis.com
 sentry.io$
 0.0.0.0 cl2.apple.com
-
+0.0.0.0 seed-dejavu.siri.apple.com
+0.0.0.0 push.rollout.io
+0.0.0.0 mtalk.google.com
+0.0.0.0 smetrics.att.com
+0.0.0.0 assets.adobedtm.com
+0.0.0.0 dpm.demdex.net
+0.0.0.0 b.thumbs.redditmedia.com
+0.0.0.0 cdn-settings.segment.com
+0.0.0.0 codepush.appcenter.ms
+0.0.0.0 traces.sr.roku.com
+0.0.0.0 mobile.logs.roku.com
+0.0.0.0 cognito-identity.us-east-1.amazonaws.com
