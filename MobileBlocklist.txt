@@ -1,11 +1,8 @@
 vungle.com$
 moatads
 mopub
-doubleclick.net$
-crashlytics
 0.0.0.0 firebaselogging-pa.googleapis.com
 krxd
-appsflyer
 googletagservices
 0.0.0.0 googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
@@ -23,7 +20,6 @@ segment.com$
 0.0.0.0 in.appcenter.ms
 braze.com
 0.0.0.0 cf.iadsdk.apple.com
-0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 xp.apple.com
 0.0.0.0 iphone-ld.apple.com
 0.0.0.0 gsp-ssl.ls.apple.com
@@ -90,7 +86,6 @@ king.com$
 footprint.net$
 https://app-measurement.com/sdk-exp
 inner-active.mobi$
-0.0.0.0 star.c10r.facebook.com
 0.0.0.0 gspe79-ssl.ls.apple.com
 0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 poole-collector-prod.n3twork.com
@@ -115,7 +110,6 @@ saygames.io$
 0.0.0.0 saypromo.sfo2.cdn.digitaloceanspaces.com
 0.0.0.0 e4478.a.akamaiedge.net
 0.0.0.0 www.ketchapp.org
-unity3d.com$
 0.0.0.0 humb.apple.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 sapphire-api.target.com
@@ -132,7 +126,6 @@ ioam.de$
 0.0.0.0 mads.amazon.com
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 firebaseinappmessaging.googleapis.com
-sentry.io$
 0.0.0.0 cl2.apple.com
 0.0.0.0 seed-dejavu.siri.apple.com
 0.0.0.0 push.rollout.io
@@ -146,3 +139,5 @@ sentry.io$
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 mobile.logs.roku.com
 0.0.0.0 cognito-identity.us-east-1.amazonaws.com
+0.0.0.0 smp-device-content.apple.com
+0.0.0.0 athena.helpshift.com
