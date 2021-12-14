@@ -1,3 +1,6 @@
+UPDATE: NO LONGER MAINTAINED
+now using pihole via my own wiregaurd vpn server with internet traffic routed through mullvad and dns queries going through DNSCrypt-proxy. 
+
 # DNS-Blocklist
 The domains on this list have been cobbled together from the list of blocked domains on AdGuard Home from my iPhone. It is intended to be lightweight and geared towards
 on device dns filters for iOS Devices such as AdGuard for a balance between privacy and battery life. I will personally use this list when i'm not connected to
